@@ -22,7 +22,6 @@
 - [ ] - Alterar a cor quando o player selecionar o veículo desejado.
 - [ ] - Retirar o dinheiro equivalente ao veículo selecionado pelo player após a compra.
 - [ ] - Criar o veículo do player em um lugar apropriado como: (estacionamento se for um carro, caso seja barcos deixa-lo na garagem para retirar no mar.)
-- [ ] - Salvar os dados do player e do veículo (NOME, ID, COR(R, G, B), ID DO PROPRIETÁRIO ) no banco de dados (SQLITE ou MYSQL).
 
 ## Admin Permissions
 
